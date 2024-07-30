@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/clap_v1/">
+    <file alias="Main.qml">/home/vagrant/clap/clap_v1/Main.qml</file>
+  </qresource>
+</RCC>
+
